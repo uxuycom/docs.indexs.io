@@ -1,6 +1,5 @@
 ---
-description: What is Indexs?
-cover: .gitbook/assets/gitbook-background-664X240 (1).png
+cover: ../.gitbook/assets/gitbook-background-664X240 (1).png
 coverY: 0
 layout:
   cover:
@@ -18,32 +17,5 @@ layout:
     visible: true
 ---
 
-# 🎃 Overview
+# List
 
-## Our Mission
-
-
-
-
-
-
-
-
-
-## Our Ecosystem
-
-
-
-
-
-
-
-## Our Solutions
-
-
-
-
-
-
-
-## Why Index
