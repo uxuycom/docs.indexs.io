@@ -19,11 +19,11 @@ layout:
 
 # 🎃 Overview
 
-<figure><picture><source srcset=".gitbook/assets/20240110- DMT (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/20240110- DMT (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
-
 ## Our Mission
 
 
+
+<figure><picture><source srcset=".gitbook/assets/20240110- DMT-dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/20240110- DMT (1) (1).png" alt=""></picture><figcaption></figcaption></figure>
 
 
 
