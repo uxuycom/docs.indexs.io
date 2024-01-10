@@ -1,5 +1,4 @@
 ---
-description: What is Indexs?
 cover: .gitbook/assets/gitbook-background-664X240 (1).png
 coverY: 0
 layout:
@@ -20,11 +19,11 @@ layout:
 
 # 🎃 Overview
 
+
+
+<figure><img src=".gitbook/assets/20240110- DMT (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Our Mission
-
-
-
-
 
 
 

@@ -20,11 +20,4 @@ layout:
 # Mint
 
 ```json
-// Some code
-{ 
-    "p": "brc-20", 
-    "op": "mint", 
-    "tick": "publish0xtoken", 
-    "amt": "1000" 
-}
 ```

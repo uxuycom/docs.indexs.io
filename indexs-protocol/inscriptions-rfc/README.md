@@ -8,7 +8,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,3 +19,12 @@ layout:
 
 # Inscriptions RFC
 
+## BRC20 Style
+
+BRC 20 Style Request For Comments
+
+
+
+## Ethscription Style
+
+Ethscriptions Request For Comments

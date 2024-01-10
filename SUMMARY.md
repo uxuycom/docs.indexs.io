@@ -9,7 +9,7 @@
 
 ## 🌲 INDEXS PROTOCOL
 
-* [Overvies](indexs-protocol/overvies.md)
+* [Overview](indexs-protocol/overview.md)
 * [Recipes](indexs-protocol/recipes/README.md)
   * [DMT Spirit](indexs-protocol/recipes/dmt-spirit.md)
   * [Deploy](indexs-protocol/recipes/deploy.md)
