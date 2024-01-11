@@ -38,11 +38,9 @@ As "[UXUY Crypto Equity Manifesto](https://blog.uxuy.com/the-uxuy-crypto-equity-
 
 ## Our Ecosystem
 
+UXUY is actively exploring the multi-chain ecology of Inscription and currently supports multiple public chains such as BNB Chain, Polygon, ETH, Avalanch, and 200+ Inscription protocols.&#x20;
 
-
-
-
-
+Gradually improve the basic settings of Inscription and explore the huge potential of the Inscription track.
 
 ## Our Solutions
 
