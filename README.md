@@ -34,11 +34,7 @@ As Mr. Satoshi mentioned in the Bitcoin [white paper](https://bitcoin.org/bitcoi
 
 _A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution_&#x20;
 
-As "[UXUY Crypto Equity Mainfesto](https://blog.uxuy.com/the-uxuy-crypto-equity-manifesto-97e0d0f7b612)" says: We firmly believe that trading is the only weapon that can break down barriers.
-
-
-
-
+As "[UXUY Crypto Equity Manifesto](https://blog.uxuy.com/the-uxuy-crypto-equity-manifesto-97e0d0f7b612)" says: We firmly believe that trading is the only weapon that can break down barriers.
 
 ## Our Ecosystem
 
@@ -50,10 +46,18 @@ As "[UXUY Crypto Equity Mainfesto](https://blog.uxuy.com/the-uxuy-crypto-equity-
 
 ## Our Solutions
 
+To actively build multi-chain inscription infrastructure, call for inscriptions to abide by DMT standards, and jointly explore more possibilities for inscription ecology.&#x20;
 
+UXUY has made a series of efforts, including:
 
+* UXUY APP supports inquiry, engraving, transfer, and multi-chain and multi-ecological inscription services ( Download [APP](https://uxuy.com/download) )&#x20;
+* [UXUY](https://app.gitbook.com/o/KCzJiJ2iIEs4ytcyUPyK/s/8RjG9b3T8jxq2t0OOrIz/) official website launches multi-chain inscription signage&#x20;
+* Online inscription browser
 
+Coming soon:
 
-
+* BRC20 inscription online&#x20;
+* Launching a new combination of Inscription Assets + Finance to realize InFi&#x20;
+* Launched multi-chain inscription trading market (Marketplace + AMM)
 
 ## Why Index
