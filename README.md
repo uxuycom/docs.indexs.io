@@ -58,4 +58,13 @@ Coming soon:
 * Launching a new combination of Inscription Assets + Finance to realize InFi&#x20;
 * Launched multi-chain inscription trading market (Marketplace + AMM)
 
-## Why Index
+## Why Indexer
+
+We firmly believe that Inscription is accelerating to become the third largest asset after Token and NFT. It relies on the new paradigm of "decentralized" asset issuance and has gained market recognition and popularity.
+
+At present, the inscription market other than Bitcoin Ordinals and BRC20 is developing wildly in a "non-standardized" way, which runs counter to the original intention of Bitcoin and the spirit of Satoshi Nakamoto. This is something UXUY does not want to see.
+
+At present, the inscription market other than Bitcoin Ordinals and BRC20 is developing wildly in a "non-standardized" way, which runs counter to the original intention of Bitcoin and the spirit of Satoshi Nakamoto. This is something UXUY does not want to see.
+
+Therefore, UXUY established a standardized indexer that embraces the spirit of Bitcoin and Satoshi Nakamoto to provide indexing services for the inscription track.
+
