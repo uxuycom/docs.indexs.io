@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/gitbook-background-664X240 (1).png
+cover: ../.gitbook/assets/gitbook-background-664X240 (1).png
 coverY: 0
 layout:
   cover:
@@ -8,7 +8,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -17,7 +17,15 @@ layout:
     visible: true
 ---
 
-# Mint
+# Inscriptions RFC
 
-```json
-```
+### ASC-20 on Avalanche
+
+### PRC-20 on Polygon
+
+### BRC-20 on BSC
+
+### ERC-20 on ETH
+
+
+

@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/gitbook-background-664X240 (1).png
+cover: ../.gitbook/assets/gitbook-background-664X240 (1).png
 coverY: 0
 layout:
   cover:
@@ -55,7 +55,7 @@ Transfer:
 
 ## Deploy
 
-```
+```json
 // Some code
 { 
     "p": "brc-20", 
@@ -68,7 +68,7 @@ Transfer:
 
 ## Mint
 
-```
+```json
 // Some code
 { 
     "p": "brc-20", 
@@ -95,8 +95,3 @@ BRC20 style inscriptions use the follow data and UTXO to inscribe the transfer e
 
 ```
 
-## Ethscription
-
-[https://docs.ethscriptions.com/esips/accepted-esips/esip-1-smart-contract-ethscription-transfers](https://docs.ethscriptions.com/esips/accepted-esips/esip-1-smart-contract-ethscription-transfers)
-
-&#x20;                                                                  Ethscription Transfer Policy

@@ -23,7 +23,10 @@ layout:
 
 ### Features
 
-* [x] Support EVM Chain & Two Style Inscriptions
+* [x] Support BSC-20 on BNBChain (BSC)
+* [x] Support ASC-20 on Avalanche Chain&#x20;
+* [x] Support PRC-20 on Polygon
+* [x] Support ERC-20 on ETH
 * [ ] Support BRC20 on Bitcoin mainnet
 * [ ] Support DRC20 on Dogecoin mainnet
 * [ ] Support SDK to rapid integration with ISV Developer

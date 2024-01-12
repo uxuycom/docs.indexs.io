@@ -9,15 +9,8 @@
 
 ## 🌲 INDEXS PROTOCOL
 
-* [Overview](indexs-protocol/overview.md)
-* [Recipes](indexs-protocol/recipes/README.md)
-  * [DMT Spirit](indexs-protocol/recipes/dmt-spirit.md)
-  * [Deploy](indexs-protocol/recipes/deploy.md)
-  * [Mint](indexs-protocol/recipes/mint.md)
-  * [Transfer](indexs-protocol/recipes/transfer.md)
-* [Inscriptions RFC](indexs-protocol/inscriptions-rfc/README.md)
-  * [BRC20 Style](indexs-protocol/inscriptions-rfc/brc20-style.md)
-  * [Ethscription Style](indexs-protocol/inscriptions-rfc/ethscription-style.md)
+* [Recipes](indexs-protocol/recipes.md)
+* [Inscriptions RFC](indexs-protocol/inscriptions-rfc.md)
 * [Supported](indexs-protocol/supported.md)
 * [Partner](indexs-protocol/partner.md)
 * [Work Mechanism](indexs-protocol/work-mechanism/README.md)
