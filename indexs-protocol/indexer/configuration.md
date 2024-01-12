@@ -17,13 +17,15 @@ layout:
     visible: true
 ---
 
-# Config Indexer
+# Configuration
 
 ## How to config?
 
+~~Optionally, we use a configuration file under `~/.uxuyindexer/config.json` on Linux or BSD, `~/Library/Application Support/uxuyindexer/config.json` in Mac OS or `$LOCALAPPDATA/uxuyindexer/config.json` in Windows.~~
+
+You can set the config by self when you start it in command line too.&#x20;
+
 The following is the config.json example.
-
-
 
 ### from\_block
 
@@ -64,11 +66,7 @@ IDM:data:,{"p":"asc-20","op":"deploy","tick":"avas","max":"21000000","lim":"1000
 
 
 
-##
-
-
-
-
+### config.json
 
 {% code lineNumbers="true" fullWidth="false" %}
 ```json
