@@ -39,6 +39,7 @@
     * [Tick.Holders](indexs-protocol/api-reference/api/tick.holders.md)
     * [Block.LastNumber](indexs-protocol/api-reference/api/block.lastnumber.md)
     * [Tool.InscriptionTxOperate](indexs-protocol/api-reference/api/tool.inscriptiontxoperate.md)
+    * [Transaction.Info](indexs-protocol/api-reference/api/transaction.info.md)
   * [Specification](https://ava.indexs.io/v1/docs/openapi.json)
 * [Changelog](indexs-protocol/changelog/README.md)
   * [Version 1.0](indexs-protocol/changelog/version-1.0.md)

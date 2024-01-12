@@ -1,6 +1,6 @@
-# Tool.InscriptionTxOperate
+# Transaction.Info
 
-{% swagger src="https://api.indexs.io/v1/docs/openapi.json" path="tool.InscriptionTxOperate" method="post" %}
+{% swagger src="https://api.indexs.io/v1/docs/openapi.json" path="transaction.Info" method="post" %}
 [https://api.indexs.io/v1/docs/openapi.json](https://api.indexs.io/v1/docs/openapi.json)
 {% endswagger %}
 
@@ -8,7 +8,7 @@ Example Request
 
 ```json
 {
-  "method": "tool.InscriptionTxOperate", // jsonrpc method name
+  "method": "transaction.Info", // jsonrpc method name
   "id": 1, // request id
   "jsonrpc": "2.0", // jsonrpc version
   "params": [
