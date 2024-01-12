@@ -43,9 +43,10 @@ UXUY Indexer need to store index data in your database, so far we support mySQL 
 
 Compile UXUY Indexer from source by cloning the uxuy indexer repository. Go Version 1.21 or higher is recommended (you may check what version of go is running with `go version`)
 
+{% code lineNumbers="true" %}
 ```
 git clone https://github.com/uxuycom/indexer.git
 cd indexer
-checkout <latest version>
-make install
+make build && sudo make install
 ```
+{% endcode %}

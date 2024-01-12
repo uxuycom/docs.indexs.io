@@ -25,8 +25,7 @@ Indexer has 3 modules, `Scan` `Index` `Persistent.`
 {% code lineNumbers="true" %}
 ```bash
 git clone https://github.com/uxuycom/indexer.git
-cd indexer/db
-mysql -uroot -p < indexer-init.sql
+mysql -uroot -p < indexer/db/init_mysql.sql
 ```
 {% endcode %}
 
@@ -35,41 +34,23 @@ mysql -uroot -p < indexer-init.sql
 // RUN Indexer
 git clone https://github.com/uxuycom/indexer.git
 cd indexer
-make build-indexer
-
-cp config.json.template config.json
+make build && sudo make install
 
 // Before do this, you needs to initial database first.
 // mysql 
 // Update the config follow the docs
+indexer -c config.json
 
-
-./indexer -c config.json
-```
-{% endcode %}
-
-When Indexer worked, you can check the data in your database. if it works normal, you can going to run API Server.
-
-{% code lineNumbers="true" %}
-```bash
-// Run Indexer JSONRPC API
-git clone https://github.com/uxuycom/indexer.git
-cd indexer
-make build-indexer-api
-
-cp apis-config.json.template apis-config.json
-// Update the config follow the docs
-./indexer-api -c apis-config.json
+// Run Indexer JSONRPC API server
+apiserver -c config.json
 ```
 {% endcode %}
 
 ### Docker
 
-You can run `Indexer` and `API` use Docker too.
+You can run `Indexer` and `API` use Docker soon.
 
-
-
-### How to contrib. ?
+### How to become contributor ?
 
 If you are a developer, you can join us to develop and make the indexer more powerful.
 
