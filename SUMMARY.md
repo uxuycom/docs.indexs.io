@@ -36,7 +36,7 @@
     * [Transaction.Info](indexs-protocol/api-reference/api/transaction.info.md)
   * [Specification](https://api.indexs.io/v1/docs/openapi.json)
 * [Changelog](indexs-protocol/changelog/README.md)
-  * [Version 1.0](indexs-protocol/changelog/version-1.0.md)
+  * [Version Alpha](indexs-protocol/changelog/version-alpha.md)
 * [Team](indexs-protocol/team.md)
 
 ## 🪄 INDEXS FEATURES
