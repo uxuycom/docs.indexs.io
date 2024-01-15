@@ -8,7 +8,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -19,3 +19,4 @@ layout:
 
 # Team
 
+The UXUY team has rich experience in the blockchain industry, has experienced multiple rounds of bull and bear situations, and has strong industry sensitivity. Currently, UXUY has received investment from many well-known institutions such as Mexc and Bixin Ventures.
