@@ -20,7 +20,7 @@ layout:
 
 # 🎃 Overview
 
-UXUY Indexer is the infrastructure of the Inscription ecosystem and a standardized indexer that actively embraces Bitcoin and the spirit of  Satoshi. Provide developers with inscription services for Bitcoin Ordinals, BRC20, and ETH, BNB Chain, Avalanch, Pollygon and other public chains and ecosystems. You can use the API to deploy your own Inscription services, build Inscription-adapted wallet applications, develop browsers, and more.&#x20;
+UXUY Indexer is the infrastructure of the inscription ecosystem and a standardized indexer that actively embraces Bitcoin and the spirit of  Satoshi. Provide developers with inscription services for Bitcoin Ordinals、BRC20、ETH、BNB Chain、Avalanche、Polygon and other public chains and ecosystems. You can use the API to deploy your own inscription services, build inscription-adapted wallet applications, develop browsers, and more.&#x20;
 
 UXUY Indexer is actively exploring new ways of playing inscriptions, realizing InFi through a new combination of inscription assets + Finance, and unleashing the full potential of inscriptions.
 
@@ -28,7 +28,7 @@ UXUY Indexer is actively exploring new ways of playing inscriptions, realizing I
 
 ## Our Mission
 
-The development of Inscription has spread to the multi-chain ecosystem. UXUY calls on Inscription to embrace the spirit of Bitcoin and Satoshi Nakamoto and follow the DMT (Deploy, Mint, Transfer) Standard.&#x20;
+The development of inscription has spread to the multi-chain ecosystem. UXUY calls on inscription to embrace Bitcoin and the spirit of Satoshi and follow the DMT (Deploy, Mint, Transfer) Standard.&#x20;
 
 As Mr. Satoshi mentioned in the Bitcoin [white paper](https://bitcoin.org/bitcoin.pdf):&#x20;
 
@@ -38,9 +38,9 @@ As "[UXUY Crypto Equity Manifesto](https://blog.uxuy.com/the-uxuy-crypto-equity-
 
 ## Our Ecosystem
 
-UXUY is actively exploring the multi-chain ecology of Inscription and currently supports multiple public chains such as BNB Chain, Polygon, ETH, Avalanch, and 200+ Inscription protocols.&#x20;
+UXUY is actively exploring the multi-chain ecology of inscription and currently supports multiple public chains such as BNB Chain, Polygon, ETH, Avalanche and 200+ inscription protocols.&#x20;
 
-Gradually improve the basic settings of Inscription and explore the huge potential of the Inscription track.
+Gradually improve the basic settings of inscription and explore the huge potential of the inscription track.
 
 ## Our Solutions
 
@@ -55,12 +55,12 @@ UXUY has made a series of efforts, including:
 Coming soon:
 
 * BRC20 inscription online&#x20;
-* Launching a new combination of Inscription Assets + Finance to realize InFi&#x20;
+* Launching a new combination of inscription Assets + Finance to realize InFi&#x20;
 * Launched multi-chain inscription trading market (Marketplace + AMM)
 
 ## Why Indexer
 
-We firmly believe that Inscription is accelerating to become the third largest asset after Token and NFT. It relies on the new paradigm of "decentralized" asset issuance and has gained market recognition and popularity.
+We firmly believe that inscription is accelerating to become the third largest asset after Token and NFT. It relies on the new paradigm of "decentralized" asset issuance and has gained market recognition and popularity.
 
 At present, the inscription market other than Bitcoin Ordinals and BRC20 is developing wildly in a "non-standardized" way, which runs counter to the original intention of Bitcoin and the spirit of Satoshi Nakamoto. This is something UXUY does not want to see.
 
