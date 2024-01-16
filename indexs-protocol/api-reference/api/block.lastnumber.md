@@ -6,13 +6,15 @@
 
 Example Request
 
+
+
 ```json
 {
   "method": "block.LastNumber", // jsonrpc method name
   "id": 1, // request id
   "jsonrpc": "2.0", // jsonrpc version
   "params": [
-    "avalanche", // chain name
+    ["avalanche"] // chain name array
   ]
 }
 ```
@@ -22,9 +24,13 @@ Example Response
 ```json
 {
     "jsonrpc": "2.0",
-    "result": {
-        "block_number": 40007422 // last block number
-    },
+    "result": [{
+            "chain": "avalanche",
+            "block_number": "40433785",
+            "block_time": "2024-01-16 10:18:46 +0000 UTC",
+            "timestamp": 1705400326
+        }
+    ],
     "id": 1
 }
 ```
