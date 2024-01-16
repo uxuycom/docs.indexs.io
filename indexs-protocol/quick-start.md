@@ -12,13 +12,17 @@ The `UXUY` Indexer has two parts, the first part is `Indexer` and the second one
 
 Indexer has 3 modules, `Scan` `Index` `Persistent.`
 
-### Prepare
 
-#### Depends
 
-* You need to know golang, mysql, linux and some tech stack knowledge.
-* Have a valid RPC Endpoint for you want to index the EVM blockchain.
-* MySQL Database on your server or cloud.
+### Prerequisites:
+
+* Ensure Golang is installed.
+* Set up your Go workspace.
+
+**Blockchain Indexer Setup:**
+
+1. Choose or deploy an Ethereum node; obtain its RPC endpoint (e.g., Infura).
+2. Set up MySQL on your server or use a cloud service.
 
 #### Build & Run
 
