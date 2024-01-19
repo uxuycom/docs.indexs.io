@@ -15,6 +15,7 @@
 * [Partner](indexs-protocol/partner.md)
 * [Work Mechanism](indexs-protocol/work-mechanism/README.md)
   * [Arch](indexs-protocol/work-mechanism/arch.md)
+  * [INDS](indexs-protocol/work-mechanism/inds.md)
 * [Quick Start](indexs-protocol/quick-start.md)
 * [Indexer](indexs-protocol/indexer/README.md)
   * [Get Started](indexs-protocol/indexer/get-started.md)

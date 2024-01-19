@@ -1,4 +1,5 @@
 ---
+description: Infrastructure Network Database System
 cover: ../.gitbook/assets/gitbook-background-664X240 (1).png
 coverY: 0
 layout:
@@ -19,23 +20,30 @@ layout:
 
 # 🛣 Roadmap
 
-## 2024 Q1
+**2024 Q1:**
 
-### Features
+1. Introduce Indexing Service
+2. Support All EVM Chains
+3. Extend Support to Bitcoin Chain
+4. Enable Community Contributions
+5. Provide Software Development Kit (SDK)
+6. Implement Index Explorer
 
-* [x] Support BSC-20 on BNBChain (BSC)
-* [x] Support ASC-20 on Avalanche Chain&#x20;
-* [x] Support PRC-20 on Polygon
-* [x] Support ERC-20 on ETH
-* [ ] Support BRC20 on Bitcoin mainnet
-* [ ] Support DRC20 on Dogecoin mainnet
-* [ ] Support SDK to rapid integration with ISV Developer
-* [ ] Support Inscriptions Explorer for the whole ecology
+**2024 Q2:**
 
+1. Extend Support to Doge Chain
+2. Implement Consensus Mechanism
+3. Enable Validator Anti-fraud Measures
 
+**2024 Q3:**
 
-### 2024 Q2
+1. Introduce Proposal Governance Support
+2. Implement Validator Anti-hijack Measures
+3. Introduce Validator Staking Support
 
-* Support Validator Staking
-* Support Indexer POW&#x20;
+**2024 Q4:**
 
+1. Extend Support to Solana Chain
+2. Implement Indexer POI (Proof of Indexing) Rewards
+
+\
