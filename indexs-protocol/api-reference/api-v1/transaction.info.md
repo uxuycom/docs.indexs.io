@@ -13,7 +13,7 @@ Example Request
   "jsonrpc": "2.0", // jsonrpc version
   "params": [
     "avalanche", // chain name
-    "646174613a2c7b2270223a226173632d3230222c226f70223a226d696e74222c227469636b223a22746f6d726179222c22616d74223a2231227d", // input data
+    "0x947022fc38f5c1c3349d0b2f77c82917ea3663141c535d07d674c1e21fd0c601", // tx_hash
   ]
 }
 ```
@@ -22,12 +22,18 @@ Example Response
 
 ```json
 {
-    "jsonrpc": "2.0", // jsonrpc version
-    "result": {
-        "operate": "mint", // operation name
-        "protocol": "asc-20", // protocol
-        "tick": "tomray" // tick name
-    },
-    "id": 1 // current request id
+  "jsonrpc": "2.0",
+  "result": {
+    "is_inscription": true,
+    "transaction": {
+      "protocol": "asc-20",
+      "tick": "lobby",
+      "deploy_hash": "0x947022fc38f5c1c3349d0b2f77c82917ea3663141c535d07d674c1e21fd0c601",
+      "from": "0x7a7b6Be7f5Ac593bcb262b52ae5a731aa1690ad4",
+      "to": "0x7a7b6Be7f5Ac593bcb262b52ae5a731aa1690ad4",
+      "amount": "0"
+    }
+  },
+  "id": 1
 }
 ```
