@@ -17,8 +17,7 @@ Example Request
     "0xF2f9D2575023D320475ed7875FCDCB9b52787E59", // address
     "", // chain name
     "", // protocol
-    "", // tick name
-    "", // 
+    "" // tick name
   ]
 }
 ```
