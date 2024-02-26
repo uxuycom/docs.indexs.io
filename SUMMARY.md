@@ -4,8 +4,8 @@
 
 * [🎃 Overview](README.md)
 * [🤓 Protocol Highlights](introduction/protocol-highlights.md)
-* [📽 Feature Highlights](introduction/feature-highlights.md)
-* [🛣 Roadmap](introduction/roadmap.md)
+* [📽️ Feature Highlights](introduction/feature-highlights.md)
+* [🛣️ Roadmap](introduction/roadmap.md)
 
 ## 🌲 INDEXS PROTOCOL
 
@@ -35,8 +35,24 @@
     * [Block.LastNumber](indexs-protocol/api-reference/api-v1/block.lastnumber.md)
     * [Tool.InscriptionTxOperate](indexs-protocol/api-reference/api-v1/tool.inscriptiontxoperate.md)
     * [Transaction.Info](indexs-protocol/api-reference/api-v1/transaction.info.md)
-  * [API V2](indexs-protocol/api-reference/api-v2.md)
-  * [Specification](https://api.indexs.io/v1/docs/openapi.json)
+  * [API V1 Specification](https://api.indexs.io/v1/docs/openapi.json)
+  * [API V2](indexs-protocol/api-reference/api-v2/README.md)
+    * [Inds getTicks](indexs-protocol/api-reference/api-v2/inds-getticks.md)
+    * [Inds getTransactionByAddress](indexs-protocol/api-reference/api-v2/inds-gettransactionbyaddress.md)
+    * [Inds getBalancesByAddress](indexs-protocol/api-reference/api-v2/inds-getbalancesbyaddress.md)
+    * [Inds getHoldersByTick](indexs-protocol/api-reference/api-v2/inds-getholdersbytick.md)
+    * [Inds getLastBlockNumberIndexed](indexs-protocol/api-reference/api-v2/inds-getlastblocknumberindexed.md)
+    * [Inds getTickByCallData](indexs-protocol/api-reference/api-v2/inds-gettickbycalldata.md)
+    * [Inds getTransactionByHash](indexs-protocol/api-reference/api-v2/inds-gettransactionbyhash.md)
+    * [Inds getTransactions](indexs-protocol/api-reference/api-v2/inds-gettransactions.md)
+    * [Inds getInscriptions](indexs-protocol/api-reference/api-v2/inds-getinscriptions.md)
+    * [Inds getInscriptionTxOperate](indexs-protocol/api-reference/api-v2/inds-getinscriptiontxoperate.md)
+    * [Index getInscriptionByTick](indexs-protocol/api-reference/api-v2/index-getinscriptionbytick.md)
+    * [Inds getAddressBalance](indexs-protocol/api-reference/api-v2/inds-getaddressbalance.md)
+    * [Inds getTickBriefs](indexs-protocol/api-reference/api-v2/inds-gettickbriefs.md)
+    * [Inds search](indexs-protocol/api-reference/api-v2/inds-search.md)
+    * [Inds getAllChains](indexs-protocol/api-reference/api-v2/inds-getallchains.md)
+  * [API V2 Specification](https://api.indexs.io/v2/docs/openapi.json)
 * [Changelog](indexs-protocol/changelog/README.md)
   * [Version Alpha](indexs-protocol/changelog/version-alpha.md)
 * [Team](indexs-protocol/team.md)
@@ -58,7 +74,7 @@
 
 * [Guides Overview](indexs-guides/guides-overview.md)
 
-## 🧙♂ FAQS
+## 🧙‍♂️ FAQS
 
 * [General](faqs/general.md)
 * [Resources](faqs/resources.md)
