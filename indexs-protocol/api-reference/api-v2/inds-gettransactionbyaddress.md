@@ -18,7 +18,7 @@ Example Request
     "", // chain name
     "", // protocol
     "", // tick name
-    0 // event type : 1.deploy 2.mint 3.trans in 4.trans out
+    0 // event type :  1.deploy 2.mint 3.trans
   ]
 }
 ```
