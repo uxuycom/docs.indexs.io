@@ -43,3 +43,20 @@ Example Response
     "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/index_getInscriptionByTick' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "index_getInscriptionByTick",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    "avalanche",
+    "asc-20",
+    "crazydog"
+  ]
+}'
+```

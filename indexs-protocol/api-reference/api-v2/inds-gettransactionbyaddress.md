@@ -18,7 +18,7 @@ Example Request
     "", // chain name
     "", // protocol
     "", // tick name
-    0, // event type : 1.deploy 2.mint 3.trans in 4.trans out
+    0 // event type : 1.deploy 2.mint 3.trans in 4.trans out
   ]
 }
 ```
@@ -49,4 +49,25 @@ Example Response
     },
     "id": 1
 }
+```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getTransactionByAddress' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getTransactionByAddress",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    10,
+    0,
+    "0x6Ac6f9231c86ba4Ea4C40D196DA930C1d66439f5",
+    "",
+    "",
+    "",
+    0
+  ]
+}'
 ```

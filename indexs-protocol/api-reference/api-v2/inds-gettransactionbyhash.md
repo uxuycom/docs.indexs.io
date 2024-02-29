@@ -37,3 +37,19 @@ Example Response
   "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getTransactionByHash' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getTransactionByHash",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    "avalanche",
+    "0x2f88df8669337ec739d8414df0f3ef32bf166cb73233c965e805b7fa54eef1f2"
+  ]
+}'
+```

@@ -46,3 +46,23 @@ Example Response
     "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getHoldersByTick' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getHoldersByTick",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    10,
+    0,
+    "avalanche",
+    "asc-20",
+    "crazydog",
+    1
+  ]
+}'
+```

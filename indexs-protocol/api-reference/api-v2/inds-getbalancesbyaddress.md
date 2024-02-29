@@ -4,6 +4,8 @@
 [https://api.indexs.io/v2/docs/openapi.json](https://api.indexs.io/v2/docs/openapi.json)
 {% endswagger %}
 
+
+
 Example Request
 
 ```json
@@ -17,8 +19,8 @@ Example Request
     "0xF2f9D2575023D320475ed7875FCDCB9b52787E59", // address
     "", // chain name
     "", // protocol
-    "" // tick name
-    "" // key  exp: like "%key%"
+    "", // tick name
+    "", // key  exp: like "%key%"
     1  // sort  1:ASC 2:DESC
   ]
 }
@@ -47,4 +49,26 @@ Example Response
     },
     "id": 1
 }
+```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getBalancesByAddress' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getBalancesByAddress",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    10,
+    0,
+    "0xF2f9D2575023D320475ed7875FCDCB9b52787E59",
+    "",
+    "",
+    "",
+    "",
+    1
+  ]
+}'
 ```

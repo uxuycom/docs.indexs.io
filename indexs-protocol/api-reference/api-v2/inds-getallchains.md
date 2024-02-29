@@ -113,3 +113,18 @@ Example Response
     "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getAllChains",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    []
+  ]
+}'
+```

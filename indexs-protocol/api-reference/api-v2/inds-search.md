@@ -41,3 +41,19 @@ Example Response
     "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_search' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_search",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    "0x4273173187f1108007b1C1ABE5301eFa03f7fc8A",
+    ""
+  ]
+}'
+```

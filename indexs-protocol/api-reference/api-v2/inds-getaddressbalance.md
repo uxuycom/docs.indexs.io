@@ -33,3 +33,21 @@ Example Response
     "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getAddressBalance' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getAddressBalance",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    "0xF2f9D2575023D320475ed7875FCDCB9b52787E59",
+    "avalanche",
+    "asc-20",
+    "crazydog"
+  ]
+}'
+```

@@ -57,3 +57,24 @@ Example Response
     "id": 1
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getTickBriefs' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getTickBriefs",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    [
+      {
+        "chain": "avalanche",
+        "deploy_hash": "0x7ffc56b2bf20f4f3474c1fd503fc3f1fb9066c8b0665d6da11185cac892108a5"
+      }
+    ]
+  ]
+}'
+
+```

@@ -56,3 +56,25 @@ Example Response
     "id": 1 // request id
 }
 ```
+
+Curl Example&#x20;
+
+```powershell
+curl --location 'https://api.indexs.io/v2/rpc/inds_getTicks' \
+--header 'Content-Type: application/json' \
+--data '{
+  "method": "inds_getTicks",
+  "id": 1,
+  "jsonrpc": "2.0",
+  "params": [
+    10,
+    0,
+    "",
+    "",
+    "",
+    "",
+    3,
+    1
+  ]
+}'
+```
